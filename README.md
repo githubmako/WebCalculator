@@ -1,2 +1,1 @@
-# WebCalculator
-Simply Calculator 
+# WebCalculator 
